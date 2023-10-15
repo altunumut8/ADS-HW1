@@ -15,6 +15,7 @@ This repository contains my solutions to the Algorithmic Methods of Data Mining 
 
 In this repository, you'll find my solutions to the Algorithmic Methods of Data Mining homework. The solutions are organized in a Python script (`scripts.py`) where each problem corresponds to a section of the script.
 
+Also, in the Hackerrank_All_submissions.pdf file, you can see result status of all submitted exercises.
 ## Getting Started
 
 To access the solutions, you can follow these steps:
