@@ -22,4 +22,5 @@ To access the solutions, you can follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/algorithmic-data-mining-homework.git
+   git clone https://github.com/altunumut8/ADS-HW1.git
+
